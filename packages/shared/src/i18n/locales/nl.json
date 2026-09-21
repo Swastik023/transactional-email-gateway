@@ -1,0 +1,62 @@
+{
+  "pages": {
+    "unsubscribe": {
+      "title": "Afmelden",
+      "description": "Wil je geen e-mails meer van {projectName} ontvangen op {email}?",
+      "button": "Afmelden",
+      "buttonLoading": "Bezig met afmelden...",
+      "managePreferences": "Beheer in plaats daarvan voorkeuren",
+      "successTitle": "Je bent afgemeld",
+      "successDescription": "{email} ontvangt geen e-mails meer van {projectName}.",
+      "changedMind": "Van gedachten veranderd?",
+      "subscribeAgain": "Opnieuw aanmelden"
+    },
+    "subscribe": {
+      "title": "Aanmelden voor updates",
+      "description": "Wil je e-mails van {projectName} ontvangen op {email}?",
+      "button": "Aanmelden",
+      "buttonLoading": "Bezig met aanmelden...",
+      "successTitle": "Je bent aangemeld!",
+      "successDescription": "{email} ontvangt nu e-mails van {projectName}."
+    },
+    "manage": {
+      "title": "Voorkeuren beheren",
+      "description": "Beheer de e-mails die {projectName} naar {email} stuurt.",
+      "subscriptionLabel": "E-mailabonnement",
+      "subscribedStatus": "Je bent momenteel aangemeld om e-mails te ontvangen",
+      "unsubscribedStatus": "Je bent momenteel afgemeld voor e-mails",
+      "subscribedSuccess": "Succesvol aangemeld!",
+      "unsubscribedSuccess": "Succesvol afgemeld!",
+      "unsubscribeCompletely": "Volledig afmelden",
+      "subscribeToEmails": "Aanmelden voor e-mails",
+      "disclaimer": "Op deze pagina kun je je e-mailvoorkeuren beheren. Je abonnementsstatus wordt in realtime bijgewerkt."
+    },
+    "snooze": {
+      "cta": "Tijdelijk pauzeren",
+      "prompt": "Hoe lang moeten we je e-mails pauzeren?",
+      "duration_2_weeks": "2 weken",
+      "duration_1_month": "1 maand",
+      "duration_6_months": "6 maanden",
+      "duration_1_year": "1 jaar",
+      "buttonLoading": "Pauzeren...",
+      "cancel": "Annuleren",
+      "successTitle": "Je e-mails zijn gepauzeerd",
+      "successDescription": "{email} ontvangt tot {date} geen e-mails van {projectName}. Daarna worden ze automatisch hervat.",
+      "status": "Gepauzeerd tot {date}",
+      "resume": "Nu hervatten"
+    },
+    "common": {
+      "loading": "Bezig met laden...",
+      "error": "Fout",
+      "loadFailed": "We konden je e-mailvoorkeuren niet laden. Controleer de link en probeer het opnieuw.",
+      "actionFailed": "Er is iets misgegaan. Probeer het opnieuw.",
+      "sentWith": "Verzonden met {provider}"
+    }
+  },
+  "email": {
+    "footer": {
+      "unsubscribeText": "Je ontvangt deze e-mail omdat je hebt ingestemd met het ontvangen van e-mails van {projectName}. Als je deze e-mails niet meer wilt ontvangen,",
+      "updatePreferences": "werk je voorkeuren bij"
+    }
+  }
+}

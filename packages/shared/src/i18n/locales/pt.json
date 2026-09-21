@@ -1,0 +1,62 @@
+{
+  "pages": {
+    "unsubscribe": {
+      "title": "Cancelar inscrição",
+      "description": "Deseja parar de receber e-mails de {projectName} em {email}?",
+      "button": "Cancelar inscrição",
+      "buttonLoading": "Cancelando inscrição...",
+      "managePreferences": "Gerenciar preferências",
+      "successTitle": "Inscrição cancelada",
+      "successDescription": "{email} não receberá mais e-mails de {projectName}.",
+      "changedMind": "Mudou de ideia?",
+      "subscribeAgain": "Inscrever-se novamente"
+    },
+    "subscribe": {
+      "title": "Inscrever-se para atualizações",
+      "description": "Deseja receber e-mails de {projectName} em {email}?",
+      "button": "Inscrever-se",
+      "buttonLoading": "Inscrevendo...",
+      "successTitle": "Você está inscrito!",
+      "successDescription": "{email} agora receberá e-mails de {projectName}."
+    },
+    "manage": {
+      "title": "Gerenciar Preferências",
+      "description": "Gerencie os e-mails que {projectName} envia para {email}.",
+      "subscriptionLabel": "Inscrição de E-mail",
+      "subscribedStatus": "Você está inscrito para receber e-mails",
+      "unsubscribedStatus": "Você cancelou a inscrição de e-mails",
+      "subscribedSuccess": "Inscrito com sucesso!",
+      "unsubscribedSuccess": "Inscrição cancelada com sucesso!",
+      "unsubscribeCompletely": "Cancelar inscrição completamente",
+      "subscribeToEmails": "Inscrever-se para e-mails",
+      "disclaimer": "Esta página permite que você gerencie suas preferências de e-mail. Seu status de inscrição é atualizado em tempo real."
+    },
+    "snooze": {
+      "cta": "Pausar temporariamente",
+      "prompt": "Por quanto tempo devemos pausar seus e-mails?",
+      "duration_2_weeks": "2 semanas",
+      "duration_1_month": "1 mês",
+      "duration_6_months": "6 meses",
+      "duration_1_year": "1 ano",
+      "buttonLoading": "A pausar...",
+      "cancel": "Cancelar",
+      "successTitle": "Seus e-mails estão em pausa",
+      "successDescription": "{email} não receberá e-mails de {projectName} até {date}. O envio será retomado automaticamente.",
+      "status": "Em pausa até {date}",
+      "resume": "Retomar agora"
+    },
+    "common": {
+      "loading": "Carregando...",
+      "error": "Erro",
+      "loadFailed": "Não foi possível carregar suas preferências de e-mail. Verifique o link e tente novamente.",
+      "actionFailed": "Algo deu errado. Tente novamente.",
+      "sentWith": "Enviado com {provider}"
+    }
+  },
+  "email": {
+    "footer": {
+      "unsubscribeText": "Você recebeu este e-mail porque concordou em receber e-mails de {projectName}. Se não deseja mais receber e-mails como este, por favor",
+      "updatePreferences": "atualize suas preferências"
+    }
+  }
+}
