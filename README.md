@@ -2,7 +2,7 @@
 
 > A cloud-native transactional email gateway integrating AWS SES with event-driven campaign triggers, open/click webhooks, and deliverability monitoring.
 
-![card.png](https://www.useplunk.com/api/og?title=Open-Source%0AEmail%20Platform&description=%240.001+per+email.+No+contact+limits.+Free+to+self-host.)
+![card.png](https://www.swastik-agnihotri.com/api/og?title=Open-Source%0AEmail%20Platform&description=%240.001+per+email.+No+contact+limits.+Free+to+self-host.)
 
 <h1 align="center">Plunk</h1>
 
@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/useplunk/plunk/graphs/contributors"><img src="https://img.shields.io/github/contributors/useplunk/plunk" alt="Contributors"/></a>
-    <a href="https://github.com/useplunk/plunk/actions"><img src="https://img.shields.io/github/actions/workflow/status/useplunk/plunk/docker-publish.yml" alt="Build Status"/></a>
-    <a href="https://github.com/useplunk/plunk/blob/next/LICENSE"><img src="https://img.shields.io/github/license/useplunk/plunk" alt="License"/></a>
-    <a href="https://github.com/useplunk/plunk/stargazers"><img src="https://img.shields.io/github/stars/useplunk/plunk" alt="Stars"/></a>
-    <a href="https://github.com/useplunk/plunk/issues"><img src="https://img.shields.io/github/issues/useplunk/plunk" alt="Issues"/></a>
-    <a href="https://github.com/useplunk/plunk/network/members"><img src="https://img.shields.io/github/forks/useplunk/plunk" alt="Forks"/></a>
-    <a href="https://github.com/useplunk/plunk/pkgs/container/plunk"><img src="https://img.shields.io/badge/docker-available-blue?logo=docker" alt="Docker"/></a>
+    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/graphs/contributors"><img src="https://img.shields.io/github/contributors/swastik-agnihotri/dispatch-email-engine" alt="Contributors"/></a>
+    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/actions"><img src="https://img.shields.io/github/actions/workflow/status/swastik-agnihotri/dispatch-email-engine/docker-publish.yml" alt="Build Status"/></a>
+    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/blob/next/LICENSE"><img src="https://img.shields.io/github/license/swastik-agnihotri/dispatch-email-engine" alt="License"/></a>
+    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/stargazers"><img src="https://img.shields.io/github/stars/swastik-agnihotri/dispatch-email-engine" alt="Stars"/></a>
+    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/issues"><img src="https://img.shields.io/github/issues/swastik-agnihotri/dispatch-email-engine" alt="Issues"/></a>
+    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/network/members"><img src="https://img.shields.io/github/forks/swastik-agnihotri/dispatch-email-engine" alt="Forks"/></a>
+    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/pkgs/container/plunk"><img src="https://img.shields.io/badge/docker-available-blue?logo=docker" alt="Docker"/></a>
     <a href="https://github.com/sponsors/driaug"><img src="https://img.shields.io/badge/sponsor-❤-ff69b4" alt="Sponsor"/></a>
-    <a href="https://docs.useplunk.com"><img src="https://img.shields.io/badge/docs-docs.useplunk.com-black" alt="Documentation"/></a>
-    <a href="https://useplunk.com/discord"><img src="https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://docs.swastik-agnihotri.com"><img src="https://img.shields.io/badge/docs-docs.swastik-agnihotri.com-black" alt="Documentation"/></a>
+    <a href="https://swastik-agnihotri.com/discord"><img src="https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ## Introduction
@@ -49,22 +49,22 @@ via [GitHub Sponsors](https://github.com/sponsors/driaug).
 ## Self-hosting Plunk
 
 The easiest way to self-host Plunk is by using the `plunk` Docker image.
-You can pull the latest image from [Github](https://github.com/useplunk/plunk/pkgs/container/plunk).
+You can pull the latest image from [Github](https://github.com/swastik-agnihotri/dispatch-email-engine/pkgs/container/plunk).
 
 A complete guide on how to deploy Plunk can be found in
-the [documentation](https://docs.useplunk.com/self-hosting/introduction).
+the [documentation](https://docs.swastik-agnihotri.com/self-hosting/introduction).
 
 ## Community
 
-- **Documentation**: [docs.useplunk.com](https://docs.useplunk.com)
-- **Discord**: [useplunk.com/discord](https://useplunk.com/discord)
+- **Documentation**: [docs.swastik-agnihotri.com](https://docs.swastik-agnihotri.com)
+- **Discord**: [swastik-agnihotri.com/discord](https://swastik-agnihotri.com/discord)
 
 ## Contributing
 
 You are welcome to contribute to Plunk. You can find a guide on how to contribute in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-<a href="https://github.com/useplunk/plunk/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=useplunk/plunk" alt="Contributors" />
+<a href="https://github.com/swastik-agnihotri/dispatch-email-engine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=swastik-agnihotri/dispatch-email-engine" alt="Contributors" />
 </a>
 
 ## License

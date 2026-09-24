@@ -814,7 +814,7 @@ export class SecurityService {
         headers: {
           'Authorization': `Bearer ${OPENROUTER_API_KEY}`,
           'Content-Type': 'application/json',
-          'HTTP-Referer': 'https://useplunk.com',
+          'HTTP-Referer': 'https://swastik-agnihotri.com',
           'X-Title': 'Plunk Email Platform',
         },
         body: JSON.stringify({

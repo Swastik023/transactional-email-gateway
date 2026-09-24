@@ -4,7 +4,7 @@
   "description": "Official Model Context Protocol server for Plunk — send email, manage contacts, campaigns and segments from an AI agent",
   "license": "AGPL-3.0-only",
   "type": "module",
-  "mcpName": "com.useplunk/plunk",
+  "mcpName": "com.swastik-agnihotri/dispatch-email-engine",
   "bin": {
     "plunk-mcp": "./dist/index.js"
   },
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/useplunk/plunk.git",
+    "url": "https://github.com/swastik-agnihotri/dispatch-email-engine.git",
     "directory": "apps/mcp"
   },
-  "homepage": "https://docs.useplunk.com",
+  "homepage": "https://docs.swastik-agnihotri.com",
   "keywords": [
     "plunk",
     "mcp",

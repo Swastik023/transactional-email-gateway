@@ -1,7 +1,7 @@
 # @plunk/mcp
 
 The official [Model Context Protocol](https://modelcontextprotocol.io) server for
-[Plunk](https://www.useplunk.com). It lets an AI agent send transactional email, manage contacts and
+[Plunk](https://www.swastik-agnihotri.com). It lets an AI agent send transactional email, manage contacts and
 segments, and draft and send campaigns in your Plunk project.
 
 Works with the hosted product and with self-hosted instances.

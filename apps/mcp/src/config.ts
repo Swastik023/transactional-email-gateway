@@ -6,7 +6,7 @@
  * and it keeps a self-hosted install to a single env var.
  */
 
-export const DEFAULT_API_URL = 'https://next-api.useplunk.com';
+export const DEFAULT_API_URL = 'https://next-api.swastik-agnihotri.com';
 
 export interface PlunkMcpConfig {
   /** Secret key (`sk_*`). Every tool except `plunk_track_event` needs it. */

@@ -130,7 +130,7 @@ jobs:
 # Trusted publishing setup (already done — recorded here for the next person)
 #
 #   The @plunk/mcp name is registered on npm with a trusted publisher attached:
-#       Organization/user: useplunk
+#       Organization/user: swastik-agnihotri
 #       Repository:        plunk        (the repo; `next` is the branch)
 #       Workflow filename: npm-publish.yml
 #       Environment name:  blank — if you ever set one, this job must declare a

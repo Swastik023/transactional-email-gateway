@@ -770,7 +770,7 @@ export class EmailService {
                               <tr>
                                 <td style="width:180px;">
                                   <a href="${LANDING_URI}?ref=badge" target="_blank">
-                                    <img alt="Powered by Plunk" height="auto" src="https://cdn.useplunk.com/badge.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="180" />
+                                    <img alt="Powered by Plunk" height="auto" src="https://cdn.swastik-agnihotri.com/badge.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="180" />
                                   </a>
                                 </td>
                               </tr>

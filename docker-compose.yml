@@ -109,7 +109,7 @@ services:
   # ============================================
 
   plunk:
-    image: ghcr.io/useplunk/plunk:latest
+    image: ghcr.io/swastik-agnihotri/dispatch-email-engine:latest
     container_name: plunk
     restart: unless-stopped
     environment:

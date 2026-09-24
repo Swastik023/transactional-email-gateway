@@ -6,12 +6,12 @@
     "version": "1.0.0",
     "contact": {
       "name": "Plunk Support",
-      "url": "https://www.useplunk.com"
+      "url": "https://www.swastik-agnihotri.com"
     }
   },
   "servers": [
     {
-      "url": "https://next-api.useplunk.com",
+      "url": "https://next-api.swastik-agnihotri.com",
       "description": "Production server"
     }
   ],

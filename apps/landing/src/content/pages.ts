@@ -6,7 +6,7 @@ export const MARKDOWN_PAGES: Record<string, string> = {
 Transactional emails, marketing campaigns, and workflow automation — in one platform.
 Self-hostable, $0.001 per email, no contact limits.
 
-[Get started free](https://next-app.useplunk.com/auth/signup) | [Read the docs](https://docs.useplunk.com)
+[Get started free](https://next-app.swastik-agnihotri.com/auth/signup) | [Read the docs](https://docs.swastik-agnihotri.com)
 
 ---
 
@@ -86,7 +86,7 @@ Every interaction flows into a single contact record — transactional, campaign
 - **Deployment**: Self-hostable via Docker Compose
 - **Community**: 5,000+ GitHub stars
 
-[View on GitHub](https://github.com/useplunk/plunk)
+[View on GitHub](https://github.com/swastik-agnihotri/dispatch-email-engine)
 
 ---
 
@@ -150,7 +150,7 @@ Free plan includes 1,000 emails/month. Paid plan is $0.001 per email with no con
 
 Start sending in 5 minutes. Free plan available. No contact limits, no surprises.
 
-[Create free account](https://next-app.useplunk.com/auth/signup) | [Read the docs](https://docs.useplunk.com)
+[Create free account](https://next-app.swastik-agnihotri.com/auth/signup) | [Read the docs](https://docs.swastik-agnihotri.com)
 `,
 
   pricing: `# Plunk Pricing — Simple, Transparent
@@ -174,7 +174,7 @@ Includes:
 - Unlimited contacts
 - Plunk branding on emails (removed on paid)
 
-[Start for free](https://next-app.useplunk.com/auth/signup)
+[Start for free](https://next-app.swastik-agnihotri.com/auth/signup)
 
 ---
 
@@ -187,7 +187,7 @@ Includes everything in Free, plus:
 - Monthly spend cap
 - Unlimited emails
 
-[Get started](https://next-app.useplunk.com/auth/signup)
+[Get started](https://next-app.swastik-agnihotri.com/auth/signup)
 
 ---
 
@@ -214,20 +214,20 @@ No feature tiers, no add-ons, no surprises.
 Run Plunk on your own infrastructure — full data ownership, no per-email costs, GDPR compliance by default.
 Deploy with Docker Compose in minutes.
 
-[View on GitHub](https://github.com/useplunk/plunk)
+[View on GitHub](https://github.com/swastik-agnihotri/dispatch-email-engine)
 
 ---
 
 Start sending in 5 minutes. Free plan, no credit card required.
 
-[Create free account](https://next-app.useplunk.com/auth/signup) | [Self-host for free](https://github.com/useplunk/plunk)
+[Create free account](https://next-app.swastik-agnihotri.com/auth/signup) | [Self-host for free](https://github.com/swastik-agnihotri/dispatch-email-engine)
 `,
 
   'features/workflows': `# Workflow Automation — Plunk
 
 Visual builder for complex email sequences with triggers, delays, and conditional logic. No code required.
 
-[Get started free](https://next-app.useplunk.com/auth/signup) | [Documentation](https://docs.useplunk.com)
+[Get started free](https://next-app.swastik-agnihotri.com/auth/signup) | [Documentation](https://docs.swastik-agnihotri.com)
 
 ---
 
@@ -257,7 +257,7 @@ Workflows are automated email sequences that trigger based on events in your app
 
 Real-time audience segmentation based on contact data and behavior.
 
-[Get started free](https://next-app.useplunk.com/auth/signup)
+[Get started free](https://next-app.swastik-agnihotri.com/auth/signup)
 
 ---
 
@@ -280,7 +280,7 @@ Segments are dynamic groups of contacts that update automatically as contact dat
 
 Receive and process incoming emails with webhook notifications.
 
-[Get started free](https://next-app.useplunk.com/auth/signup)
+[Get started free](https://next-app.swastik-agnihotri.com/auth/signup)
 
 ---
 
@@ -302,7 +302,7 @@ Inbound email lets your application receive emails sent to your Plunk domain. Wh
 
 Design beautiful emails with a drag-and-drop builder or write in Markdown.
 
-[Get started free](https://next-app.useplunk.com/auth/signup)
+[Get started free](https://next-app.swastik-agnihotri.com/auth/signup)
 
 ---
 
@@ -325,7 +325,7 @@ Plunk's email editor lets you build professional emails without writing HTML. Ch
 
 Send emails through Plunk using standard SMTP — no API changes required.
 
-[Get started free](https://next-app.useplunk.com/auth/signup)
+[Get started free](https://next-app.swastik-agnihotri.com/auth/signup)
 
 ---
 
@@ -340,14 +340,14 @@ Plunk provides SMTP credentials so you can send emails from any application or f
 - **Authentication**: Username and password from your Plunk project
 - **Compatible with**: Any language, framework, or tool that supports SMTP
 
-[Back to features](/features) | [Pricing](/pricing) | [Documentation](https://docs.useplunk.com)
+[Back to features](/features) | [Pricing](/pricing) | [Documentation](https://docs.swastik-agnihotri.com)
 `,
 
   'features/mcp': `# MCP Server — Plunk
 
 Connect Plunk to Claude, Cursor, and any Model Context Protocol client. Fifteen tools for transactional email, contacts, segments, and campaigns.
 
-[Get started free](https://next-app.useplunk.com/auth/signup) | [Documentation](https://docs.useplunk.com/guides/mcp-server)
+[Get started free](https://next-app.swastik-agnihotri.com/auth/signup) | [Documentation](https://docs.swastik-agnihotri.com/guides/mcp-server)
 
 ---
 
@@ -389,7 +389,7 @@ Self-hosting? Set \`PLUNK_API_URL\` to your own API domain.
 - **Read-only mode is structural.** With \`PLUNK_READ_ONLY=true\` the mutating tools are never registered, so they cannot be invoked at all.
 - **Account actions are out of reach.** Billing, project deletion, and key rotation require a dashboard session, so no tool can touch them.
 
-[Back to features](/features) | [Pricing](/pricing) | [Documentation](https://docs.useplunk.com/guides/mcp-server)
+[Back to features](/features) | [Pricing](/pricing) | [Documentation](https://docs.swastik-agnihotri.com/guides/mcp-server)
 `,
   changelog: changelogMarkdown(),
 };
@@ -406,11 +406,11 @@ function changelogMarkdown() {
 
   return `# Changelog | Plunk
 
-Features and improvements we have shipped, newest first. Plunk is open source, so the full commit history is on GitHub: https://github.com/useplunk/plunk/commits/next
+Features and improvements we have shipped, newest first. Plunk is open source, so the full commit history is on GitHub: https://github.com/swastik-agnihotri/dispatch-email-engine/commits/next
 
 ${months.join('\n\n')}
 
-[Pricing](/pricing) | [Documentation](https://docs.useplunk.com)
+[Pricing](/pricing) | [Documentation](https://docs.swastik-agnihotri.com)
 `;
 }
 

@@ -9,9 +9,9 @@ Plunk V2 is built as a modern Turborepo monorepo with the following structure:
 ### Applications (`apps/`)
 
 - **api**: Express.js API server with background worker process (BullMQ)
-- **web**: Next.js dashboard application (app.useplunk.com)
-- **landing**: Next.js marketing site (www.useplunk.com)
-- **wiki**: Next.js documentation site (docs.useplunk.com)
+- **web**: Next.js dashboard application (app.swastik-agnihotri.com)
+- **landing**: Next.js marketing site (www.swastik-agnihotri.com)
+- **wiki**: Next.js documentation site (docs.swastik-agnihotri.com)
 
 ### Shared Packages (`packages/`)
 
@@ -135,7 +135,7 @@ between groups.
 
 ## Need Help?
 
-- Check the [documentation](https://docs.useplunk.com)
+- Check the [documentation](https://docs.swastik-agnihotri.com)
 - Open an issue for bugs or feature requests
 - Join our community discussions
 
