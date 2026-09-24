@@ -1,5 +1,5 @@
 {
-  "name": "plunk",
+  "name": "dispatch-email-engine",
   "version": "0.15.0",
   "private": true,
   "scripts": {
@@ -20,7 +20,7 @@
   "resolutions": {
     "fumadocs-core": "16.0.8"
   },
-  "//zod": "apps/mcp needs zod 4 (the MCP SDK requires it) while the rest of the monorepo is on zod 3. Declaring zod 3 here keeps it as the hoisted root copy so packages that import zod without declaring it — @hookform/resolvers in web, and anything else that relies on hoisting — keep resolving 3. zod 4 nests under apps/mcp. Remove this only when the whole repo moves to zod 4.",
+  "//zod": "apps/mcp needs zod 4 (the MCP SDK requires it) while the rest of the monorepo is on zod 3. Declaring zod 3 here keeps it as the hoisted root copy so packages that import zod without declaring it \u2014 @hookform/resolvers in web, and anything else that relies on hoisting \u2014 keep resolving 3. zod 4 nests under apps/mcp. Remove this only when the whole repo moves to zod 4.",
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@formatjs/cli": "^6.7.4",

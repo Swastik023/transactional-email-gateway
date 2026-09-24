@@ -1,3 +1,7 @@
+# Dispatch Email Engine — Event-Driven AWS SES Transactional Email Gateway
+
+> A cloud-native transactional email gateway integrating AWS SES with event-driven campaign triggers, open/click webhooks, and deliverability monitoring.
+
 ![card.png](https://www.useplunk.com/api/og?title=Open-Source%0AEmail%20Platform&description=%240.001+per+email.+No+contact+limits.+Free+to+self-host.)
 
 <h1 align="center">Plunk</h1>
