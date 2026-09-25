@@ -6,21 +6,21 @@
 
 ![card.png](https://www.swastik-agnihotri.com/api/og?title=Open-Source%0AEmail%20Platform&description=%240.001+per+email.+No+contact+limits.+Free+to+self-host.)
 
-<h1 align="center">Plunk</h1>
+<h1 align="center">Transactional Email Gateway</h1>
 
 <p align="center">
     The Open-Source Email Platform
 </p>
 
 <p align="center">
-    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/graphs/contributors"><img src="https://img.shields.io/github/contributors/swastik-agnihotri/dispatch-email-engine" alt="Contributors"/></a>
-    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/actions"><img src="https://img.shields.io/github/actions/workflow/status/swastik-agnihotri/dispatch-email-engine/docker-publish.yml" alt="Build Status"/></a>
-    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/blob/next/LICENSE"><img src="https://img.shields.io/github/license/swastik-agnihotri/dispatch-email-engine" alt="License"/></a>
-    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/stargazers"><img src="https://img.shields.io/github/stars/swastik-agnihotri/dispatch-email-engine" alt="Stars"/></a>
-    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/issues"><img src="https://img.shields.io/github/issues/swastik-agnihotri/dispatch-email-engine" alt="Issues"/></a>
-    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/network/members"><img src="https://img.shields.io/github/forks/swastik-agnihotri/dispatch-email-engine" alt="Forks"/></a>
-    <a href="https://github.com/swastik-agnihotri/dispatch-email-engine/pkgs/container/plunk"><img src="https://img.shields.io/badge/docker-available-blue?logo=docker" alt="Docker"/></a>
-    <a href="https://github.com/sponsors/driaug"><img src="https://img.shields.io/badge/sponsor-❤-ff69b4" alt="Sponsor"/></a>
+    <a href="https://github.com/Swastik023/transactional-email-gateway/graphs/contributors"><img src="https://img.shields.io/github/contributors/Swastik023/transactional-email-gateway" alt="Contributors"/></a>
+    <a href="https://github.com/Swastik023/transactional-email-gateway/actions"><img src="https://img.shields.io/github/actions/workflow/status/Swastik023/transactional-email-gateway/docker-publish.yml" alt="Build Status"/></a>
+    <a href="https://github.com/Swastik023/transactional-email-gateway/blob/next/LICENSE"><img src="https://img.shields.io/github/license/Swastik023/transactional-email-gateway" alt="License"/></a>
+    <a href="https://github.com/Swastik023/transactional-email-gateway/stargazers"><img src="https://img.shields.io/github/stars/Swastik023/transactional-email-gateway" alt="Stars"/></a>
+    <a href="https://github.com/Swastik023/transactional-email-gateway/issues"><img src="https://img.shields.io/github/issues/Swastik023/transactional-email-gateway" alt="Issues"/></a>
+    <a href="https://github.com/Swastik023/transactional-email-gateway/network/members"><img src="https://img.shields.io/github/forks/Swastik023/transactional-email-gateway" alt="Forks"/></a>
+    <a href="https://github.com/Swastik023/transactional-email-gateway/pkgs/container/plunk"><img src="https://img.shields.io/badge/docker-available-blue?logo=docker" alt="Docker"/></a>
+    
     <a href="https://docs.swastik-agnihotri.com"><img src="https://img.shields.io/badge/docs-docs.swastik-agnihotri.com-black" alt="Documentation"/></a>
     <a href="https://swastik-agnihotri.com/discord"><img src="https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
@@ -34,7 +34,7 @@ An open-source, self-hosted alternative to tools [SendGrid](https://sendgrid.com
 ## Features
 
 - **Transactional Emails**: Send emails straight from your API with template support and variable substitution
-- **SMTP**: Use Plunk as an SMTP relay to send emails from any existing tool or framework
+- **SMTP**: Use Transactional Email Gateway as an SMTP relay to send emails from any existing tool or framework
 - **Campaigns**: Send newsletters and product updates to large audiences
 - **Workflows**: Create advanced automations with triggers, delays, and conditional logic
 - **Segments**: Organize contacts with dynamic filtering and target the right audience
@@ -43,17 +43,12 @@ An open-source, self-hosted alternative to tools [SendGrid](https://sendgrid.com
 - **Custom Domains**: Verify and send from your own domains with DKIM/SPF support
 - **Inbound Emails**: Receive and process incoming emails with custom routing rules
 
-## Sponsors
+## Self-hosting Transactional Email Gateway
 
-Plunk is made possible by the support of our sponsors. If you self-host Plunk, consider supporting
-via [GitHub Sponsors](https://github.com/sponsors/driaug).
+The easiest way to self-host Transactional Email Gateway is by using the `plunk` Docker image.
+You can pull the latest image from [Github](https://github.com/Swastik023/transactional-email-gateway/pkgs/container/plunk).
 
-## Self-hosting Plunk
-
-The easiest way to self-host Plunk is by using the `plunk` Docker image.
-You can pull the latest image from [Github](https://github.com/swastik-agnihotri/dispatch-email-engine/pkgs/container/plunk).
-
-A complete guide on how to deploy Plunk can be found in
+A complete guide on how to deploy Transactional Email Gateway can be found in
 the [documentation](https://docs.swastik-agnihotri.com/self-hosting/introduction).
 
 ## Community
@@ -63,10 +58,10 @@ the [documentation](https://docs.swastik-agnihotri.com/self-hosting/introduction
 
 ## Contributing
 
-You are welcome to contribute to Plunk. You can find a guide on how to contribute in [CONTRIBUTING.md](CONTRIBUTING.md).
+You are welcome to contribute to Transactional Email Gateway. You can find a guide on how to contribute in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-<a href="https://github.com/swastik-agnihotri/dispatch-email-engine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=swastik-agnihotri/dispatch-email-engine" alt="Contributors" />
+<a href="https://github.com/Swastik023/transactional-email-gateway/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Swastik023/transactional-email-gateway" alt="Contributors" />
 </a>
 
 ## License
