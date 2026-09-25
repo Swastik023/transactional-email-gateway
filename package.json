@@ -1,5 +1,5 @@
 {
-  "name": "dispatch-email-engine",
+  "name": "transactional-email-gateway",
   "version": "0.15.0",
   "private": true,
   "scripts": {

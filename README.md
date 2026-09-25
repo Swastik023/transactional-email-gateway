@@ -1,4 +1,6 @@
-# Dispatch Email Engine — Event-Driven AWS SES Transactional Email Gateway
+# AWS SES Transactional Email & Campaign Gateway
+
+> A cloud-native transactional email gateway integrating AWS SES with event-driven campaign triggers.
 
 > A cloud-native transactional email gateway integrating AWS SES with event-driven campaign triggers, open/click webhooks, and deliverability monitoring.
 
